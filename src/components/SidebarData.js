@@ -11,7 +11,7 @@ export const SidebarData = [
     cName: 'nav-text'
   },
   {
-    title: 'Estimation Projet',
+    title: 'Video Meet',
     path: '/reports',
     icon: <IoIcons.IoIosPaper />,
     cName: 'nav-text'
